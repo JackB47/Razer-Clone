@@ -1,0 +1,9 @@
+{
+  "private": true,
+  "workspaces": [
+    "front-end"
+  ],
+  "scripts": {
+    "gatsby-dev": "yarn workspace front-end gatsby develop"
+  }
+}
